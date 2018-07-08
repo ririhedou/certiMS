@@ -4,4 +4,6 @@
 - Introduction to AI
 
 Lab1 setup
+-Run Azure ML studio
+-Run ML pipeline
 
