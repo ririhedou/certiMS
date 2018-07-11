@@ -15,3 +15,7 @@ Lab3 setup
 -Run Audio API
 -Run Face API
 -Run Cornor Detection
+
+lab4 setup
+-Run MS bot framework
+-Generate a channel for Skype
