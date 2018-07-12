@@ -20,7 +20,8 @@ lab4 setup
 -Run MS bot framework
 -Generate a channel for Skype
 
-Course 2 Python to DS
+
+# Course 2 Python to DS
 1 Basic types 
 2 Basic computations
 3 Basic list 
