@@ -1,6 +1,6 @@
 # certiMS
 
-# course 1
+# course 1 Intro to AI
 - Introduction to AI
 
 Lab1 setup
