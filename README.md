@@ -29,3 +29,7 @@ lab4 setup
 3 Basic list 
 
 4 Basic Sublist
+
+Chapter 2:
+
+Functions and methods
