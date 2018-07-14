@@ -33,3 +33,9 @@ lab4 setup
 Chapter 2:
 
 Functions and methods
+
+Matplot
+
+Plot
+
+Customization
